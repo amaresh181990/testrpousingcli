@@ -1,5 +1,3 @@
-# amaresh
-
 # testrpousingcli
 
 A web application built and managed via Claude Code CLI.
@@ -23,6 +21,8 @@ cd testrpousingcli
 npm install
 ```
 
+> **Note:** The commands above require `package.json` and project source files that will be added once the project is scaffolded.
+
 ### Running the Development Server
 
 ```bash
@@ -39,6 +39,8 @@ npm start
 ```
 
 ## Project Structure
+
+> **Note:** The structure below is the intended target layout. It will be created once the project is scaffolded.
 
 ```
 testrpousingcli/
@@ -73,4 +75,4 @@ testrpousingcli/
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
